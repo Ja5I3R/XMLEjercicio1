@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt\socios.xslt"?>
+<datos>
+	<persona n="1">
+		<sexo>hombre</sexo>
+		<nombrep>ricky</nombrep>
+		<amigode>Ines</amigode>
+		<nombre>Raul Martin</nombre>
+		<email>ricky@puerto-rico.com</email>
+		<imagen>foto1.jpg</imagen>
+		<prueba d="1">numero 1</prueba>
+		<prueba d="2">numero2</prueba>
+		<prueba d="3">numero3</prueba>
+	</persona>
+	<persona n="2">
+		<sexo>mujer</sexo>
+		<nombrep>Ines</nombrep>
+		<nombre>Ines Garcia</nombre>
+		<email>pulido@micasa.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="3">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode>ricky</amigode>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+	<persona n="4">
+		<sexo>hombre</sexo>
+		<nombrep>javi</nombrep>
+		<amigode/>
+		<nombre>Javier Fernandez</nombre>
+		<email>javif@gmail.com</email>
+		<imagen>foto1.jpg</imagen>
+	</persona>
+</datos>
